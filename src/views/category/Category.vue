@@ -1,11 +1,11 @@
 <template>
-
+  <h2>分类</h2>
 </template>
 
 <script>
   //import someComponent from './someComponent'
   export default {
-    name: "",
+    name: "Category",
   }
 </script>
 
