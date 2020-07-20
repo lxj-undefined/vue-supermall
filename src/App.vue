@@ -1,7 +1,8 @@
 <template>
 
   <div id="app" class="wrapper">
-    <keep-alive>
+    <!--exclude:排除在外-->
+    <keep-alive exclude="Detail">
       <router-view></router-view>
     </keep-alive>
 
